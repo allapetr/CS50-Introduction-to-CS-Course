@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: It was the slowest at sorting random and reversed lists, but was performing almost as well as merge sort when sorting sorted lists.
+
+sort2 uses: merge sort
+
+How do you know?: It was the fastest algorithm across all types of lists.
+
+sort3 uses: selection sort
+
+How do you know?: It was in between bubble and merge sorts regarding performance and it was the slowest at sorting sorted lists.
