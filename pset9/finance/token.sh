@@ -1,0 +1,3 @@
+export FLASK_APP=application.py
+export FLASK_DEBUG=1
+export API_KEY=pk_adcdc74f1c7c4212975e61d52a5266b8
